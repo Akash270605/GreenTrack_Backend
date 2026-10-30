@@ -13,6 +13,16 @@ Spring Boot backend for GreenTrack, an enterprise sustainability intelligence pl
 - Swagger/OpenAPI documentation.
 - MySQL persistence with Flyway migrations.
 
+## Tech Stack
+- Spring Boot
+- Spring Security
+- JWT
+- Hibernate/JPA
+- MySQL
+- Maven
+- Git
+- Swagger UI
+
 ## Run Locally
 
 Create or start MySQL, then set credentials if they differ from the defaults:
